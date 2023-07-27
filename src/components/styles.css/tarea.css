@@ -1,0 +1,27 @@
+.tarea {
+  margin-top: 2rem;
+  margin-left: 6rem;
+  min-width: 300px;
+  display: flex;
+  background-color: #ffffff;
+  font-weight: 500;
+  align-items: center;
+  border-radius: 0.8rem;
+}
+
+h5 {
+  margin-top: 7px;
+  margin-left: 1rem;
+}
+
+input {
+  height: 3rem;
+  margin-left: 1rem;
+}
+
+.completada {
+  text-decoration: line-through;
+}
+.delete {
+  cursor: pointer;
+}

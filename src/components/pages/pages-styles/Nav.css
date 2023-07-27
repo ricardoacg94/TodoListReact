@@ -1,0 +1,32 @@
+.nav-contenedor {
+  display: flex;
+  margin-top: 1rem;
+  align-items: center;
+}
+
+.navegacion {
+  display: flex;
+  margin-left: 6rem;
+  margin-right: auto;
+  font-weight: 500;
+}
+
+#app {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: #5e5e5e;
+  font-size: 1.1rem;
+}
+
+#about {
+  text-decoration: none;
+  color: #5e5e5e;
+  font-size: 1.1rem;
+}
+
+#logout-link {
+  text-decoration: none;
+  color: #18191f;
+  margin-right: 2rem;
+  color: #b47aea;
+}
